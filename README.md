@@ -7,3 +7,10 @@
 - [x] UUID
 - [x] useReducer Hook
 - [x] useContext Hook
+
+## Application Demo
+
+![react-expense-tracker](./src/images/expense-tracker.png)
+
+
+
