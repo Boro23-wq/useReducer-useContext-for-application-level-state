@@ -17,5 +17,8 @@
 
 ![react-expense-tracker](./src/images/expense-tracker.gif)
 
+## How to run the app?
 
-
+- Clone the repo on to your local setup/directory.
+- Run `npm install` to install the dependencies.
+- Run `npm start` to start the app.
