@@ -13,7 +13,7 @@
 ![react-expense-tracker](./src/images/expense-tracker.png)
 
 
-## Live Application Demo
+## Working Demo
 
 ![react-expense-tracker](./src/images/expense-tracker.gif)
 
