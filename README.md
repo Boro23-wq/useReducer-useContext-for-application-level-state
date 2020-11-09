@@ -8,7 +8,7 @@
 - [x] useReducer Hook
 - [x] useContext Hook
 
-## Application Demo
+## Application Interface
 
 ![react-expense-tracker](./src/images/expense-tracker.png)
 
