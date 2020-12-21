@@ -1,7 +1,7 @@
 # React Expense Tracker App
 ### Demonstrating the use of useReducer and useContext hooks for application-level state.
 
-## Dependencies Checklists
+## Dependency Checklists
 - [x] Bootstrap
 - [x] Reactstrap
 - [x] UUID
