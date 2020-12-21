@@ -1,4 +1,4 @@
-# React Expense Tracker App
+# Expense Tracker App
 ### Demonstrating the use of useReducer and useContext hooks for application-level state.
 
 ## Dependency Checklists
